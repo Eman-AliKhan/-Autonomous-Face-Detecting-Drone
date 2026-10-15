@@ -21,6 +21,7 @@ The project explores how camera input and embedded hardware can be used in intel
 - **Arduino / C++** — Embedded programming
 - **Computer Vision** — Face-related visual processing
 - **Embedded Systems** — Hardware and firmware integration
+-  **Yolo** - detection objects
 
 ## 📂 Repository Structure
 
@@ -57,7 +58,7 @@ Confirm the actual hardware used before following this list:
 - Appropriate motor drivers or electronic speed controllers
 - Power supply and compatible wiring
 - Additional controller or flight-control hardware, if required
-- Yolo 
+
 
 ## 🚀 Getting Started
 
